@@ -1,0 +1,162 @@
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\nunit.framework.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Advertisements.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Analytics.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.AppleTV.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.HoloLens.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.LinuxStandalone.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Networking.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Purchasing.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.TestRunner.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Timeline.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.UI.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.VR.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.WSA.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Advertisements.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.UI.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.Cecil.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.DataContract.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\ExCSS.Unity.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.CecilTools.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.UI.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.UI.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Networking.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.TestRunner.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\nunit.framework.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.Timeline.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.HoloLens.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\practice\Vuforia\CubeProject_part2\Temp\bin\Debug\UnityEditor.VR.xml
+F:\practice\Vuforia\CubeProject_part2\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+F:\practice\Vuforia\CubeProject_part2\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+F:\practice\Vuforia\CubeProject_part2\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
+F:\practice\Vuforia\CubeProject_part2\obj\Debug\Assembly-CSharp-Editor.dll
+F:\practice\Vuforia\CubeProject_part2\obj\Debug\Assembly-CSharp-Editor.pdb
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\nunit.framework.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Advertisements.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Analytics.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.AppleTV.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.HoloLens.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.LinuxStandalone.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Networking.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Purchasing.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.TestRunner.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Timeline.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.UI.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.VR.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.WSA.Extensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Advertisements.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.UI.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.Cecil.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.DataContract.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\ExCSS.Unity.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.CecilTools.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.UI.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.UI.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Networking.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.TestRunner.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\nunit.framework.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.Timeline.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.HoloLens.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\Temp\bin\Debug\UnityEditor.VR.xml
+F:\practice\Vuforia\CubeProject_part2 — копия\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+F:\practice\Vuforia\CubeProject_part2 — копия\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+F:\practice\Vuforia\CubeProject_part2 — копия\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
+F:\practice\Vuforia\CubeProject_part2 — копия\obj\Debug\Assembly-CSharp-Editor.dll
+F:\practice\Vuforia\CubeProject_part2 — копия\obj\Debug\Assembly-CSharp-Editor.pdb
