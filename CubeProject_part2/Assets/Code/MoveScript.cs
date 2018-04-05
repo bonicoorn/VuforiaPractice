@@ -29,11 +29,6 @@ public class MoveScript : MonoBehaviour {
 
                 agent.SetDestination(raycastHit.point);
                 destination = raycastHit.point;
-                foreach(var item in gameObjects)
-                {
-                    if(item.GetComponent<NavMeshAgent>()!=agent)
-                    item.transform.position=raycastHit.point;
-                }
             }
         }
     }
