@@ -8,9 +8,7 @@ using UnityEngine.EventSystems;
 public class MoveScript : MonoBehaviour {
 
     Vector3 destination;
-    NavMeshAgent agent;
-    Animator animator;
-    bool hasMove;
+    public NavMeshAgent agent;
 
     void Update()
     {
@@ -24,54 +22,13 @@ public class MoveScript : MonoBehaviour {
                 RaycastHit raycastHit;
                 if (Physics.Raycast(ray, out raycastHit, 1000))
                 {
-                    if (raycastHit.collider.tag != "UI")
-                    {
-                        agent.SetDestination(raycastHit.point);
-                        destination = raycastHit.point;
-                        if (animator && !hasMove)
-                        {
-                            animator.SetTrigger("Walk");
-                            hasMove = true;
-                        }
-                    }
-
+                    agent.SetDestination(raycastHit.point);
+                    destination = raycastHit.point;
                 }
             }
         }
-
-        if(hasMove && animator)
-        End();
     }
 
-    void End()
-    {
-        if(Vector3.Distance(agent.transform.position,destination)<0.1f)
-        {
-            animator.SetTrigger("Stop");
-            hasMove = false;
-        }        
-    }
-
-    public void SetAgent(NavMeshAgent navMeshAgent)
-    {
-        if (agent)
-        {
-            var temp = navMeshAgent;
-            temp.transform.position = agent.transform.position;
-            agent = temp;
-            agent.SetDestination(destination);
-        }
-        else
-        {
-            agent = navMeshAgent;
-        }
-        
-    }
-
-    public void SetAnimator(Animator animator)
-    {
-        this.animator = animator;
-    }
 
     PointerEventData PointerData(int id)
     {

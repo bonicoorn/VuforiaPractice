@@ -2,18 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChangeColor : MonoBehaviour {
+public class ChangeMethods : MonoBehaviour {
 
     Renderer renderer;
+    MeshFilter meshFilter;
 
     void Start()
     {
+        meshFilter = gameObject.GetComponent<MeshFilter>();
         renderer = GetComponent<Renderer>();
     }
 
-    public void SetColor(string color)
+    public void ChangeObject(Mesh mesh)
     {
-        if (!renderer) Start();
+        meshFilter.mesh = mesh;
+    }
+
+    public void ChangeColor(string color)
+    {
         switch (color)
         {
             case "red":
