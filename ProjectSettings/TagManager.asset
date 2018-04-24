@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CubeTag
   - SphereTag
+  - RenderTag
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - ImageTargetLayer
   - 
   - 
   - 
@@ -42,4 +44,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3149449443
     locked: 0

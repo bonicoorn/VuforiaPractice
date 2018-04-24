@@ -3,53 +3,58 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.EventSystems;
 
 public class MoveScript : MonoBehaviour {
 
-    public Vector3 destination;
-    public Vector3 AgentCoords;
+    Vector3 destination;
     NavMeshAgent agent;
     Animator animator;
-
-
-    void Start()
-    {
-        //animator = agent.gameObject.GetComponent<Animator>();
-        
-    }
+    bool hasMove;
 
     void Update()
     {
-        if (agent)
-            AgentCoords = agent.transform.position;
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetMouseButtonDown(0))
         {
-            
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            RaycastHit raycastHit;
-            if (Physics.Raycast(ray, out raycastHit, 1000))
+            var data = PointerData(-1);
+
+            if(!data.selectedObject)
             {
-                agent.SetDestination(raycastHit.point);
-                destination = raycastHit.point;
-                if (animator)
+                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+                RaycastHit raycastHit;
+                if (Physics.Raycast(ray, out raycastHit, 1000))
                 {
-                    animator.SetTrigger("Walk");
+                    if (raycastHit.collider.tag != "UI")
+                    {
+                        agent.SetDestination(raycastHit.point);
+                        destination = raycastHit.point;
+                        if (animator && !hasMove)
+                        {
+                            animator.SetTrigger("Walk");
+                            hasMove = true;
+                        }
+                    }
+
                 }
             }
         }
-        if(animator)
+
+        if(hasMove && animator)
         End();
     }
 
     void End()
     {
-        if (agent.transform.position.x == destination.x && agent.transform.position.z == destination.z) { animator.SetTrigger("Stop");}
-        
+        if(Vector3.Distance(agent.transform.position,destination)<0.1f)
+        {
+            animator.SetTrigger("Stop");
+            hasMove = false;
+        }        
     }
 
     public void SetAgent(NavMeshAgent navMeshAgent)
     {
-        if (agent != null)
+        if (agent)
         {
             var temp = navMeshAgent;
             temp.transform.position = agent.transform.position;
@@ -68,23 +73,10 @@ public class MoveScript : MonoBehaviour {
         this.animator = animator;
     }
 
-    //NavMeshAgent agent;
-
-    //void Start()
-    //{
-    //    agent = GetComponent<NavMeshAgent>();
-    //}
-
-    //void Update()
-    //{
-    //    if (Input.GetMouseButtonDown(0))
-    //    {
-    //        RaycastHit hit;
-
-    //        if (Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hit, 100))
-    //        {
-    //            agent.destination = hit.point;
-    //        }
-    //    }
-    //}
+    PointerEventData PointerData(int id)
+    {
+        var inst = EventSystem.current.currentInputModule as StandaloneModule;
+        if (inst == null) return null;
+        return inst.GetPointerEventData(id);
+    }
 }

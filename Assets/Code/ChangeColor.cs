@@ -4,25 +4,28 @@ using UnityEngine;
 
 public class ChangeColor : MonoBehaviour {
 
-	// Use this for initialization
-    public Color cColor;
+    Renderer renderer;
 
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    void Start()
+    {
+        renderer = GetComponent<Renderer>();
+    }
 
     public void SetColor(string color)
     {
+        if (!renderer) Start();
         switch (color)
         {
-            case "red": GetComponent<Renderer>().material.color = Color.red; break;
-            case "green": GetComponent<Renderer>().material.color = Color.green; break;
-            case "blue": GetComponent<Renderer>().material.color = Color.blue; break;
+            case "red":
+                renderer.material.color = Color.red;
+                break;
+            case "green":
+                renderer.material.color = Color.green;
+                break;
+            case "blue":
+                renderer.material.color = Color.blue;
+                break;
         }
+
     }
 }
