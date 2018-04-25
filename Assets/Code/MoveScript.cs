@@ -7,7 +7,6 @@ using UnityEngine.EventSystems;
 
 public class MoveScript : MonoBehaviour {
 
-    Vector3 destination;
     public NavMeshAgent agent;
 
     void Update()
@@ -23,7 +22,6 @@ public class MoveScript : MonoBehaviour {
                 if (Physics.Raycast(ray, out raycastHit, 1000))
                 {
                     agent.SetDestination(raycastHit.point);
-                    destination = raycastHit.point;
                 }
             }
         }

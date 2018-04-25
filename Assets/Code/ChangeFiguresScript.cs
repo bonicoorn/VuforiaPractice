@@ -12,9 +12,11 @@ public class ChangeFiguresScript : MonoBehaviour {
     void Start()
     {
         figuresDropdown = GetComponent<Dropdown>();
-        figuresDropdown.onValueChanged.AddListener(delegate {
-            DropdownValueChanged(figuresDropdown);
-        });
+        figuresDropdown.onValueChanged.AddListener(
+            delegate {
+                DropdownValueChanged(figuresDropdown);
+            }
+        );
     }
 
     //Ouput the new value of the Dropdown into Text

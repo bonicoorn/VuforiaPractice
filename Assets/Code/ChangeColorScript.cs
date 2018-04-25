@@ -12,9 +12,12 @@ public class ChangeColorScript : MonoBehaviour {
     void Start()
     {
         colorsDropdown = GetComponent<Dropdown>();
-        colorsDropdown.onValueChanged.AddListener(delegate {
-            DropdownValueChanged(colorsDropdown);
-        });
+        colorsDropdown.onValueChanged.AddListener(
+            delegate
+            {
+                DropdownValueChanged(colorsDropdown);
+            }
+        );
         DropdownValueChanged(colorsDropdown);
     }
 
